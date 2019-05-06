@@ -7,3 +7,9 @@ My first GitHub Repo
 - Avengers series
 - Titanic
 - The Incredibles
+- 
+## Favorite Books
+
+-Penragon Series
+-Percy Jackson Series
+-Saint Books
